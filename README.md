@@ -1,2 +1,1 @@
-# Discontinued / Frozen (No longer works on
-PM4)
+# Discontinued / Frozen (No longer works on PM4)
